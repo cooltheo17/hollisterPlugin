@@ -7,7 +7,7 @@ Install these libraries:
 
 
 ## 📃 Instractions
-1. After isntalling the puppeteer add the product link in the file.
+1. After installing the puppeteer add the product link in the file.
 2. Change the email address to be sent and your email key in the file.
 
 ## ⚠️ Disclaimer!
