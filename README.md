@@ -1,4 +1,4 @@
-# Hollister Aleter Plugin 
+# Hollister Alerter Plugin 
 A chrome extension that uses puppeteer from Note.js to web scrape the Hollister website and check the availability of products. If the requested product becomes available an email is sent to the user.
 
 ## 📥 Installation
